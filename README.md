@@ -221,4 +221,3 @@ Verify that:
 * An output directory is configured.
 * The application has permission to write there.
 * A valid serial number/base filename is configured.
-* The scan actually produced image rows.
